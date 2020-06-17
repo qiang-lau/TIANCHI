@@ -1,4 +1,4 @@
-# TIANCHI_Git
+# TIANCHI
 
 解决Github加载ipynb文件缓慢/失败
 
